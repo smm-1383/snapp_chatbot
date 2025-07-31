@@ -11,7 +11,7 @@ import numpy as np
 
 import json
 
-oak = 'aa-Nl3RoJ9qsmTtNYSUegHGKehVuyIw1g1h1kzICUtd5VriiWbl'
+oak = '<OPENAI_API_KEY>'
 base = 'https://api.avalai.ir/v1'
 model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
 
